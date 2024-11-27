@@ -1,0 +1,6 @@
+
+
+SWITCH_CHANNEL = 1
+
+THROW = -1
+RESET = 1
